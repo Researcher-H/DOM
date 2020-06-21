@@ -22,6 +22,8 @@ DOMツリーとは、こんなもの
 右の矢印を押してみて
 - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_treeview
 
+---
+
 ### node (ノード)
 
 DOMツリーの
@@ -57,7 +59,7 @@ https://developer.mozilla.org/ja/docs/Web/HTML/Attributes
 
 属性は
 
-```
+```html
 <div id="属性"></div>
 ```
 
