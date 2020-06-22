@@ -105,7 +105,7 @@ NodeList [MDN Link](https://developer.mozilla.org/ja/docs/Web/API/Document_Objec
 
 ---
 
-### <良く分からない　２０２０.０６．２２>
+#### <良く分からない　２０２０.０６．２２>
 
 NamedNodeMap [MDN Link](https://developer.mozilla.org/ja/docs/Web/API/Document_Object_Model/Introduction)
 
@@ -113,7 +113,7 @@ NamedNodeMap [MDN Link](https://developer.mozilla.org/ja/docs/Web/API/Document_O
 
 ---
 
-### <良く分からない２　２０２０.０６．２２>
+#### <良く分からない２　２０２０.０６．２２>
 
 #### DOM インタフェース
 
