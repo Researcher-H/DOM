@@ -141,15 +141,3 @@ getElementBy系は排除
 
 - <s> document.getElementById(id) </s>
 - <s> document.getElementsByTagName(name) </s>
-
-
-
-
-
-
-
-
-
-
-
-
