@@ -151,3 +151,51 @@ getElementBy系は排除
 
 - <s> document.getElementById(id) </s>
 - <s> document.getElementsByTagName(name) </s>
+
+---
+
+## 一番やりたかった事
+
+---
+
+タグと属性の知識
+
+---
+
+## 一番やりたかった事 - 2
+
+---
+
+### ドキュメントの操作
+
+MDN サイト (日本語)
+- [MDN Link](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+
+In English
+1. [Link](https://www.javascripttutorial.net/javascript-dom/)
+2. [Link](https://javascript.info/modifying-document)
+3. [Link](https://medium.com/@kevinchi118/innerhtml-vs-createelement-appendchild-3da39275a694)
+4. [Link](https://plainjs.com/javascript/manipulation/)
+5. [Link](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
+
+---
+
+### DOMツリー内の移動 (Week - 2?)
+
+MDN サイト (日本語)
+- [MDN Link](https://developer.mozilla.org/ja/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces)
+
+In English
+1. [Link](https://www.w3schools.com/jS/js_htmldom_navigation.asp)
+2. [Link](https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom)
+3. [Link](https://zellwk.com/blog/dom-traversals/)
+4. [Link](https://javascript.info/dom-navigation)
+5. [Link](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
+
+---
+
+練習
+- [MDN Link](https://www.w3schools.com/js/default.asp)
+
+
+
