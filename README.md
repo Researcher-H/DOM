@@ -54,13 +54,15 @@ DOMツリーの
 ### tag (タグ)
 
 **タグ**は
+
 ```html
 <html></html>
 <div></div>
 <a></a>
+```
+
 と２つペアとなったもの
 それぞれ用途が違う
-```
 
 ---
 
@@ -84,7 +86,9 @@ https://developer.mozilla.org/ja/docs/Web/HTML/Attributes
 
 属性は
 
+```html
 <div id="属性1" class="属性2"></div>
+```
 
 のように
 タグの中にいれられる
